@@ -107,8 +107,8 @@ API Django professionnelle :
 
 <p align="left">
   <a href="https://github.com/Andry-Nyaina"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-ff4444?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/andry-nyaina-510215324/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="andriniaina.2am@gmail.com"><img src="https://img.shields.io/badge/Email-ff4444?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
 </p>
 
 ---
