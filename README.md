@@ -24,8 +24,8 @@
 - ✔ Django avancé  
 - ✔ Django REST Framework (JWT, permissions, throttling)  
 - ✔ CI/CD basique  
-- 🔄 Tests unitaires complets (pytest)  
-- 🔄 Documentation auto Swagger / Spectacular  
+- ✔ Tests unitaires complets (pytest)  
+- ✔ Documentation auto Swagger / Spectacular  
 - 🔜 FastAPI (microservices)
 
 ### 🎯 Frontend
