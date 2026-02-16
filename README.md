@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🔥 Fullstack Developer — **Python (Django/DRF) + React**
+- 🔥 Backend Developer **(Python/Django)** | Aspiring Fullstack & AI Engineer
 - 🤖 Passionate about **AI, automation, data science**, and clean backend architecture  
 - 🚀 Currently mastering:  
   - Django avancé (API REST, sécurité, permissions, tests, CI/CD)  
@@ -18,7 +18,7 @@
 
 ---
 
-## 📘 Current Roadmap (2025)
+## 📘 Current Roadmap (2026)
 
 ### 🎯 Backend
 - ✔ Django avancé  
