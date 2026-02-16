@@ -95,15 +95,6 @@ API Django professionnelle :
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andry-Nyaina&show_icons=true&theme=react&hide_border=false"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andry-Nyaina&layout=compact&theme=react&hide_border=false"/>
-</p>
-
----
-
 ## 🌐 Contact & Network
 
 <p align="left">
